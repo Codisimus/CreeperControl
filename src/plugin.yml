@@ -1,7 +1,6 @@
 name: CreeperControl
 main: com.codisimus.plugins.creepercontrol.CreeperControl
-version: 0.1.0
+version: 0.3.0
 author: Codisimus
 website: www.codisimus.com
 description: Prevents Creepers from doing land damage
-startup: postworld
